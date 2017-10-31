@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="src/lib/activation.jar"/>
+	<classpathentry kind="lib" path="src/lib/axis.jar"/>
+	<classpathentry kind="lib" path="src/lib/commons-discovery-0.2.jar"/>
+	<classpathentry kind="lib" path="src/lib/commons-logging-1.0.4.jar"/>
+	<classpathentry kind="lib" path="src/lib/jaxrpc.jar"/>
+	<classpathentry kind="lib" path="src/lib/mail.jar"/>
+	<classpathentry kind="lib" path="src/lib/saaj.jar"/>
+	<classpathentry kind="lib" path="src/lib/wsdl4j-1.5.1.jar"/>
+	<classpathentry kind="lib" path="/home/obs5/Videos/beenusjars/commons-beanutils-1.8.0.jar"/>
+	<classpathentry kind="lib" path="/home/obs5/Videos/beenusjars/commons-beanutils-core-1.8.0.jar"/>
+	<classpathentry kind="lib" path="/home/obs5/Videos/beenusjars/commons-codec-1.3.jar"/>
+	<classpathentry kind="lib" path="/home/obs5/Videos/beenusjars/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="/home/obs5/Videos/beenusjars/commons-configuration-1.6.jar"/>
+	<classpathentry kind="lib" path="/home/obs5/Videos/beenusjars/commons-digester-1.8.jar"/>
+	<classpathentry kind="lib" path="/home/obs5/Videos/beenusjars/commons-lang-2.5.jar"/>
+	<classpathentry kind="lib" path="/home/obs5/Videos/beenusjars/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="/home/obs5/Videos/beenusjars/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="/home/obs5/Videos/beenusjars/dcm4che-base64-2.0.25.jar"/>
+	<classpathentry kind="lib" path="/home/obs5/Videos/beenusjars/ezmorph-1.0.6.jar"/>
+	<classpathentry kind="lib" path="/home/obs5/Videos/beenusjars/gson-2.4.jar"/>
+	<classpathentry kind="lib" path="/home/obs5/Videos/beenusjars/httpclient-4.0.jar"/>
+	<classpathentry kind="lib" path="/home/obs5/Videos/beenusjars/httpcore-4.0.1.jar"/>
+	<classpathentry kind="lib" path="/home/obs5/Videos/beenusjars/json-20090211.jar"/>
+	<classpathentry kind="lib" path="/home/obs5/Videos/beenusjars/json-lib-2.4-jdk15.jar"/>
+	<classpathentry kind="lib" path="/home/obs5/Videos/beenusjars/jsse-2.0.5.jar"/>
+	<classpathentry kind="lib" path="/home/obs5/Videos/beenusjars/log4j-1.2.16.jar"/>
+	<classpathentry kind="lib" path="/home/obs5/Videos/beenusjars/mail-1.4.jar"/>
+	<classpathentry kind="lib" path="/home/obs5/Videos/beenusjars/opencsv-1.7.jar"/>
+	<classpathentry kind="lib" path="/home/obs5/Videos/de.panaccess.cableview.wsdl.v4_0.583.operator.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
